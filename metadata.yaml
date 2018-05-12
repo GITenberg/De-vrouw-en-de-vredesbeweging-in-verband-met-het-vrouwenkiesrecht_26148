@@ -17,6 +17,8 @@ creator:
     - http://www.alettajacobs.org/home.html
     - http://nl.wikipedia.org/wiki/Aletta_Jacobs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26148#De-vrouw-en-de-vredesbeweging-in-verband-met-het-vrouwenkiesrecht
 gutenberg_issued: '2008-07-29'
 gutenberg_type: Text
 identifiers:
